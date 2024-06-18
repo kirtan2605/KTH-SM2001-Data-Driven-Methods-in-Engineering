@@ -12,11 +12,11 @@ The dataset under assessment for performance evaluation is a multi-channel (colo
 Low-order representations of the image data can be obtained by storing data upto different value of rank r (All the three channels have the same value of r). The effect of this compression can be seen in the reconstructed images.
 <p align="center">
   <figure style="display:inline-block; width:45%; float:left;">
-    <img src="https://github.com/kirtan2605/KTH-EF2264-Operations-of-Space-Systems/blob/master/src/datafiles/results/minimum_distance.png" style="width:100%; height:250px;">
+    <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/Project/images/SVD/Compressed_Images/Compressed%20Image%20r%3D01%20Storage%3D0.1per.pdf" style="width:45%; height:250px;">
     <figcaption style="text-align:center;">Caption for the first image</figcaption>
   </figure>
   <figure style="display:inline-block; width:45%; float:left;">
-    <img src="https://github.com/kirtan2605/KTH-EF2264-Operations-of-Space-Systems/blob/master/src/datafiles/results/minimum_distance_zoom.png" style="width:100%; height:250px;">
+    <img src="https://github.com/kirtan2605/KTH-EF2264-Operations-of-Space-Systems/blob/master/src/datafiles/results/minimum_distance_zoom.png" style="width:45%; height:250px;">
     <figcaption style="text-align:center;">Caption for the second image</figcaption>
   </figure>
   <div style="clear:both; margin-bottom:200px;"></div>
