@@ -25,15 +25,8 @@ Low-order representations of the image data can be obtained by storing data upto
 
 
 <p align="center">
-  <figure style="display:inline-block; width:45%; float:left;">
     <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/SVD/Compressed_Image_r005.png" style="width:45%; height:250px;">
-    <figcaption style="text-align:center;"> r = 005 </figcaption>
-  </figure>
-  <figure style="display:inline-block; width:45%; float:right;">
     <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/SVD/Compressed_Image_r010.png" style="width:45%; height:250px;">
-    <figcaption style="text-align:center;"> r = 010 </figcaption>
-  </figure>
-  <div style="clear:both; margin-bottom:200px;"></div>
 </p>
 
 <p align="center">
