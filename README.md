@@ -34,6 +34,4 @@ For a more precise reconstruction with lower storage, different value of r can b
 </p>
 
 
-## Discrete Fourier Transform
-
 
