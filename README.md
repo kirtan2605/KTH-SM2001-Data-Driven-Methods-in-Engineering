@@ -2,7 +2,7 @@
 The primary objective of the project is to systematically assess the efficacy and performance of some of these methods which enable building of low-order representations of image data.
 
 ## Image Dataset
-The dataset under assessment for performance evaluation is a multi-channel (color) image with dimensions of 1704 × 2272 pixels.
+The dataset under assessment for performance evaluation is a multi-channel (color) image.
 <p align="center">
   <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/KTH_photo.jpg" style="width:500px; height:auto; float:left;">
   <div style="clear:both; margin-bottom:200px;"></div>
