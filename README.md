@@ -30,6 +30,7 @@ Low-order representations of the image data can be obtained by storing data upto
 
 
 
+
 <p align="center">
   <figure style="display:inline-block; width:45%; float:left;">
     <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/SVD/Compressed_Image_r025.png" style="width:45%; height:250px;">
