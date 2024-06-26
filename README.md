@@ -11,11 +11,11 @@ The dataset under assessment for performance evaluation is a multi-channel (colo
 ## Singular Vector Decomposition
 Low-order representations of the image data can be obtained by storing data upto different value of rank r (All the three channels have the same value of r). The effect of this compression can be seen in the reconstructed images.
 <p align="center">
-  <figure style="display:inline-block; width:45%; vertical-align: top;">
+  <figure style="display:inline-block; width:45%; horizontal-align: left;">
     <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/SVD/Compressed_Image_r001.png" style="width:45%; height:250px;">
     <figcaption style="text-align:center;"> r = 001 </figcaption>
   </figure>
-  <figure style="display:inline-block; width:45%; margin:0 2.5%; vertical-align: top;">
+  <figure style="display:inline-block; width:45%; horizontal-align: right">
     <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/SVD/Compressed_Image_r002.png" style="width:45%; height:250px;">
     <figcaption style="text-align:center;"> r = 002 </figcaption>
   </figure>
@@ -29,7 +29,7 @@ Low-order representations of the image data can be obtained by storing data upto
     <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/SVD/Compressed_Image_r005.png" style="width:45%; height:250px;">
     <figcaption style="text-align:center;"> r = 005 </figcaption>
   </figure>
-  <figure style="display:inline-block; width:45%; float:left;">
+  <figure style="display:inline-block; width:45%; float:right;">
     <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/SVD/Compressed_Image_r010.png" style="width:45%; height:250px;">
     <figcaption style="text-align:center;"> r = 010 </figcaption>
   </figure>
