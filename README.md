@@ -33,5 +33,23 @@ For a more accurate reconstruction with lower storage, different value of r can 
   <div style="clear:both; margin-bottom:200px;"></div>
 </p>
 
+## Discrete Fourier Transform
+This transformation shifts an image from its spatial domain into the frequency domain, allowing for the segregation of high-frequency and low-frequency coefficients. It also permits the attenuation or modification of specific frequencies, resulting in an image with reduced data but retaining a satisfactory level of quality.
+
+<p align="center">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/DFT/Storage_0.1.png" style="width: 45%; height: 250px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/DFT/Storage_0.21.png" style="width: 45%; height: 250px;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/DFT/Storage_0.51.png" style="width: 45%; height: 250px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/DFT/Storage_1.03.png" style="width: 45%; height: 250px;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/DFT/Storage_2.57.png" style="width: 45%; height: 250px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/DFT/Storage_10.27.png" style="width: 45%; height: 250px;">
+</p>
+
 
 
