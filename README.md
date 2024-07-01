@@ -27,7 +27,7 @@ Low-order representations of the image data can be obtained by storing data upto
 </p>
 
 
-For a more precise reconstruction with lower storage, different value of r can be set for each of the three channels based on the amount of cumulative energy that is captured.
+For a more accurate reconstruction with lower storage, different value of r can be set for each of the three channels based on the amount of cumulative energy that is captured.
 <p align="center">
   <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/SVD/CummulativeEnergy_vs_r.png" style="width:500px; height:auto; float:left;">
   <div style="clear:both; margin-bottom:200px;"></div>
