@@ -54,6 +54,6 @@ This transformation shifts an image from its spatial domain into the frequency d
 
 <p align="center">
   <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d301.png" style="width: 30%; height: 250px; margin-right: 20px;">
-  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d305.png" style="width: 30%; height: 250px; margin-right: 20px;">
-  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d310.png" style="width: 30%; height: 250px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n05.png" style="width: 30%; height: 250px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n10.png" style="width: 30%; height: 250px; margin-right: 20px;">
 </p>
