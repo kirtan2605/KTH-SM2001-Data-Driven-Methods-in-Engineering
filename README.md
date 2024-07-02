@@ -44,16 +44,16 @@ This transformation shifts an image from its spatial domain into the frequency d
 ## Convolutional Neural Network based AutoEncoder
 
 <p align="center">
-  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNAE/ReconImage_d005.png" style="width: 30%; height: 250px; margin-right: 20px;">
-  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNAE/ReconImage_d025.png" style="width: 30%; height: 250px; margin-right: 20px;">
-  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNAE/ReconImage_d100.png" style="width: 30%; height: 250px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNAE/ReconImage_d005.png" style="width: 30%; height: 200px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNAE/ReconImage_d025.png" style="width: 30%; height: 200px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNAE/ReconImage_d100.png" style="width: 30%; height: 200px; margin-right: 20px;">
 </p>
 
 
 ## Convolutional Neural Network based Heirarchical AutoEncoder
 
 <p align="center">
-  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n01.png" style="width: 30%; height: 250px; margin-right: 20px;">
-  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n05.png" style="width: 30%; height: 250px; margin-right: 20px;">
-  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n10.png" style="width: 30%; height: 250px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n01.png" style="width: 30%; height: 200px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n05.png" style="width: 30%; height: 200px; margin-right: 20px;">
+  <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n10.png" style="width: 30%; height: 200px; margin-right: 20px;">
 </p>
