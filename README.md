@@ -1,5 +1,5 @@
 # Data-Driven Compression of Multi-Channel Images
-The primary objective of the project is to systematically assess the efficacy and performance of some of these methods which enable building of low-order representations of image data.
+The primary objective of the project is to systematically assess the efficacy and performance of some of these methods which enable building of low-order representations of image data. For a detailed project report, please refer to the (Complete Project Report)[https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/Project/Kirtan%20Patel%20SM2001%20Project%20Report.pdf]
 
 ## Image Dataset
 The dataset under assessment for performance evaluation is a multi-channel (color) image.
