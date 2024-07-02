@@ -34,6 +34,7 @@ This transformation shifts an image from its spatial domain into the frequency d
 </p>
 
 ## Convolutional Neural Network based AutoEncoder
+Neural networks’ ability to learn nonlinear relationships makes autoencoders a powerful extension of PCA. Convolutional Neural Networks (CNN) based autoencoders extend the basic autoencoder architecture by incorporating convolutional layers. This enables them to capture spatial hierarchies and features within the image data, which improves image compression and reconstruction.  In the context of image data, this latent space captures the most salient features of the input.
 
 <p align="center">
   <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNAE/ReconImage_d005.png" style="width: 30%; height: 200px; margin-right: 20px;">
@@ -43,6 +44,7 @@ This transformation shifts an image from its spatial domain into the frequency d
 
 
 ## Convolutional Neural Network based Heirarchical AutoEncoder
+Convolutional Neural Network (CNN)-based Hierarchical Autoencoders (HAE) represent a powerful neural network architecture designed for hierarchical feature learning, particularly well-suited for tasks involving complex spatial data, such as image analysis, computer vision, and deep learning applications. Hierarchical autoencoders extend the principles of traditional autoencoders to enable the extraction of increasingly abstract and informative features through multiple layers of stacked autoencoders. Furthermore, the CNN-HAE architecture can order the AE modes following their contributions to the reconstructed field while achieving efficient order reduction.
 
 <p align="center">
   <img src="https://github.com/kirtan2605/KTH-SM2001-Data-Driven-Methods-in-Engineering/blob/master/readme_images/NN/CNNHAE/ReconImage_d3n01.png" style="width: 30%; height: 200px; margin-right: 20px;">
